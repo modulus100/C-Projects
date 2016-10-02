@@ -1,0 +1,16 @@
+Jeanine 113664 2 3 4 5
+Ted 121087 0 4 0 4
+Florencio 131451 2 5 4 3
+Salat 121142 5 5 5 5
+Haley 114028 5 4 4 4
+Tanisha 103654 3 2 1 0
+Mckenzie 121562 5 4 3 2 
+Cezar 112794 5 5 5 5
+Lara 125876 2 2 2 3
+Norris 116872 4 4 4 4
+Antonio 2348679 5 5 5 5
+Michele 123123 4 4 4 4
+Pedro 989343  1 2 3 4
+Kebab 018363 3 3 3 5
+Burgerboy 834823 2 2 5 5
+
